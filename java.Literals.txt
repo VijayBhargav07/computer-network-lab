@@ -1,0 +1,25 @@
+1 public class Literals
+public static void main(String[] args)
+AT
+boolean b = true;
+boolean = false;1 public class Literals
+public static void main(String[] args)
+boolean d = 0;
+AT
+boolean b = true;
+boolean b = 1;
+boolean = false;
+System.out.println(b);
+boolean d = 0;
+System.out.println(c); System.out.println(d);
+boolean b = 1;
+12
+System.out.println(b);
+System.out.println(e);
+System.out.println(c); System.out.println(d);
+11
+12
+13
+System.out.println(e);
+11
+12
